@@ -33,17 +33,26 @@ sample_files/
 ## 📸 Project Screenshots
 
 ### Before Organization
-
 ![Before](project_screenshots/before.png)
 
 ### After Organization
 
-![After](project_screenshots/after.png)
+#### After - View 1
+![After 1](project_screenshots/after_1.png)
+
+#### After - View 2
+![After 2](project_screenshots/after_2.png)
 
 ### Terminal Output
-
 ![Terminal](project_screenshots/terminal_output.png)
 
 ### GitHub Repository
 
-![GitHub](project_screenshots/github_project.png)
+#### Repository View 1
+![GitHub 1](project_screenshots/github_project_1.png)
+
+#### Repository View 2
+![GitHub 2](project_screenshots/github_project_2.png)
+
+#### Repository View 3
+![GitHub 3](project_screenshots/github_project_3.png)
