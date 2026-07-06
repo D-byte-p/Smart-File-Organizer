@@ -33,13 +33,17 @@ sample_files/
 ## 📸 Project Screenshots
 
 ### Before Organization
+
 ![Before](project_screenshots/before.png)
 
 ### After Organization
+
 ![After](project_screenshots/after.png)
 
 ### Terminal Output
+
 ![Terminal](project_screenshots/terminal_output.png)
 
 ### GitHub Repository
+
 ![GitHub](project_screenshots/github_project.png)
